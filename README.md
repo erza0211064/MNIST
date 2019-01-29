@@ -1,0 +1,2 @@
+# MNIST
+ECE285 HW3
